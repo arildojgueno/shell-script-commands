@@ -1,5 +1,4 @@
-# shell-script-commands
-Compilation of usefull shell script commands
+## Compilation of usefull shell script commands
 
 - List most N larger files in a folder
 
